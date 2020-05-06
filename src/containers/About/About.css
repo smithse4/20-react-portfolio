@@ -25,3 +25,8 @@
   .contacts:hover {
     color: #4C1B30;
   }
+
+  p {
+    font-family: sans-serif;
+    font-size: 14px;
+  }

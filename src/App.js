@@ -6,7 +6,6 @@ import Navbar from "./components/navbar/Navbar";
 import About from "./containers/About/About";
 import Contact from "./containers/Contact/Contact";
 import Portfolio from "./containers/Portfolio/Portfolio";
-import ContactLinks from "./components/ContactLinks"
 
 
 const App = () => {
@@ -17,7 +16,6 @@ const App = () => {
         <Route exact path="/" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
-        <ContactLinks/>
         <Footer />
       </div>
     </Router>

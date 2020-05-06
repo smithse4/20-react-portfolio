@@ -2,35 +2,35 @@
     {
       "id": 1,
       "name": "Book, Line & Sinker",
-      "image": "./img/book-line-sinker.png",
+      "image": "../../img/booklinesinker.png",
       "repo": "https://github.com/smithse4/Book-Line-And-Sinker",
       "deployed": "https://limitless-escarpment-67448.herokuapp.com/"
     },
     {
       "id": 2,
       "name": "COVID-19 Info Tracker",
-      "image": "./img/coronavirus-tracker.png",
+      "image": "../../img/coronavirustracker.png",
       "repo": "https://github.com/smithse4/covid-19-info-tracker",
       "deployed": "https://smithse4.github.io/covid-19-info-tracker/"
     },
     {
       "id": 3,
       "name": "Note Taker",
-      "image": "./img/note-taker.png",
+      "image": "../../img/notetaker.png",
       "repo": "https://github.com/smithse4/11-note-taker",
       "deployed": "https://arcane-hollows-89245.herokuapp.com/"
     },
     {
       "id": 4,
       "name": "Eat-Da-Burger",
-      "image": "./img/burger.png",
+      "image": "../../img/burger.png",
       "repo": "https://github.com/smithse4/13-burger",
       "deployed": "https://fierce-fortress-25431.herokuapp.com/"
     },
     {
       "id": 5,
       "name": "README Generator",
-      "image": "./img/readme.png",
+      "image": "../../img/readme.png",
       "repo": "https://github.com/smithse4/09-readme-generator",
       "deployed": "NA"
       
@@ -38,9 +38,10 @@
     {
       "id": 6,
       "name": "Employee Tracker",
-      "image": "./img/employee-tracker.png",
+      "image": "../../img/employeetracker.png",
       "repo": "https://github.com/smithse4/12-employee-tracker",
       "deployed": "NA"
+      
       
     }
   ]
