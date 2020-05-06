@@ -1,0 +1,38 @@
+.port-image {
+    margin: 5px auto;
+    border: 1px solid black;
+  }
+  
+  h5 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+  
+  .repo-links {
+    color: black;
+    margin: 0;
+  }
+  
+  .repo-links:hover {
+    color: grey;
+  }
+  
+  p {
+    margin-bottom: 0;
+  }
+
+  .project-width {
+    max-width: 47%;
+    margin: 10px;
+  }
+
+  button {
+    background-color: #4C1B30;
+    color: white;
+    border: none;
+    width: 46%;
+    margin: 6px;
+    padding: 4px;
+  }

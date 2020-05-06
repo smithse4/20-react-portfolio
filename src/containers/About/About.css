@@ -1,0 +1,32 @@
+.about-me-header {
+    /* Positioning */
+    margin-bottom: 33px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+  
+    /* Typography */
+    font-size: 32px;
+    font-weight: bold;
+    color: #4aaaa5;
+  }
+  
+  #about-image {
+    /* Positioning */
+    float: left;
+  
+    /* Box-model */
+    width: 200px;
+    margin: 0 20px 10px 0;
+  }
+
+  .contacts {
+    color: #041E3C;
+  }
+  
+  .contacts:hover {
+    color: #4C1B30;
+  }
+
+  p {
+    font-family: sans-serif;
+    font-size: 14px;
+  }
