@@ -4,7 +4,7 @@ Now that I've worked with React and have multiple projects to share, I've update
 
 ## Links
 
-* [Github Repo](https://github.com/smithse4/20-react-portfolio)
+* [Github Repo](https://github.com/smithse4/react-portfolio-steph-smith)
 
 ## Requirements
 
