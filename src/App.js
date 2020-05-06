@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import Footer from "./components/footer/Footer";
@@ -6,8 +6,10 @@ import Navbar from "./components/navbar/Navbar";
 import About from "./containers/About/About";
 import Contact from "./containers/Contact/Contact";
 import Portfolio from "./containers/Portfolio/Portfolio";
+import ContactLinks from "./components/ContactLinks"
 
-function App() {
+
+const App = () => {
   return (
     <Router>
       <div>
@@ -15,10 +17,12 @@ function App() {
         <Route exact path="/" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
+        <ContactLinks/>
         <Footer />
       </div>
     </Router>
   );
-}
+};
 
 export default App;
+
