@@ -76,7 +76,7 @@ class Portfolio extends Component {
               <i className="fas fa-phone"></i> (404) 323-3940
             </p>
             <a
-              href="https://drive.google.com/file/d/1Ho2RcqrCXcZ1UN-Nuqr_n6omFZNfg7iF/view?usp=sharing"
+              href="https://drive.google.com/open?id=1ORvkeL51euri5jku_gcnudotaKZ7r_-X"
               className="contacts"
             >
               <p>
