@@ -5,6 +5,7 @@ Now that I've worked with React and have multiple projects to share, I've update
 ## Links
 
 * [Github Repo](https://github.com/smithse4/react-portfolio-steph-smith)
+* [Deployed App](https://react-portfolio-steph-smith.herokuapp.com/)
 
 ## Requirements
 
@@ -34,7 +35,7 @@ Portfolio page:
 
 | Requirement    | Weight |
 | -------------- | ------ |
-| Portoflio      | 90%    |
+| Portfolio      | 90%    |
 | GitHub Profile | 10%    |
 
 
