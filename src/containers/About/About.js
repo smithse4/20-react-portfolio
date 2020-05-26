@@ -64,7 +64,7 @@ const About = () => {
             <i className="fas fa-phone"></i> (404) 323-3940
           </p>
           <a
-            href="https://drive.google.com/open?id=1ORvkeL51euri5jku_gcnudotaKZ7r_-X"
+            href="https://drive.google.com/open?id=1SF88JA-rKU51833-WXT4hHWEfGS6fyWe"
             className="contacts"
           >
             <p>

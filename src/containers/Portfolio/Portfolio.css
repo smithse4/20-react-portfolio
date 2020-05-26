@@ -1,6 +1,7 @@
 .port-image {
     margin: 5px auto;
     border: 1px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   
   h5 {
@@ -35,4 +36,15 @@
     width: 46%;
     margin: 6px;
     padding: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  button:hover {
+    background-color: #4C1B30;
+    color: lightgrey;
+    border: none;
+    width: 46%;
+    margin: 6px;
+    padding: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }

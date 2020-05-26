@@ -1,48 +1,51 @@
 [
     {
       "id": 1,
-      "name": "Book, Line & Sinker",
-      "image": "../../img/booklinesinker.png",
-      "repo": "https://github.com/smithse4/Book-Line-And-Sinker",
-      "deployed": "https://limitless-escarpment-67448.herokuapp.com/"
+      "name": "Job Init",
+      "image": "../../img/jobinit.png",
+      "description": "Collaborative job listing aggregator tailored specifically to developer openings -- Full stack MERN app, which also utilizes Adzuna's API, Mongoose, and a number of other NPM packages.",
+      "repo": "https://github.com/smithse4/job-init",
+      "deployed": "https://job-int.herokuapp.com/"
     },
     {
       "id": 2,
+      "name": "Book, Line & Sinker",
+      "image": "../../img/booklinesinker.png",
+      "description": "Collaborative application built with NodeJS, Express, Handlebars, Sequelize, HTML, CSS, and Javascript.",
+      "repo": "https://bookls.herokuapp.com/",
+      "deployed": "https://bookls.herokuapp.com/"
+    },
+    {
+      "id": 3,
       "name": "COVID-19 Info Tracker",
       "image": "../../img/coronavirustracker.png",
+      "description": "Collaborative application built with New York Times Scrapper API, the Virus Tracker API, JavaScript, HTML, and CSS.",
       "repo": "https://github.com/smithse4/covid-19-info-tracker",
       "deployed": "https://smithse4.github.io/covid-19-info-tracker/"
     },
     {
-      "id": 3,
-      "name": "Note Taker",
-      "image": "../../img/notetaker.png",
-      "repo": "https://github.com/smithse4/11-note-taker",
-      "deployed": "https://arcane-hollows-89245.herokuapp.com/"
-    },
-    {
       "id": 4,
-      "name": "Eat-Da-Burger",
-      "image": "../../img/burger.png",
-      "repo": "https://github.com/smithse4/13-burger",
-      "deployed": "https://fierce-fortress-25431.herokuapp.com/"
+      "name": "Employee Directory",
+      "image": "../../img/directory.png",
+      "description": "Employee Directory created with React with sorting and filtering functionality.",
+      "repo": "https://github.com/smithse4/19-user-directory",
+      "deployed": "https://stephdirectory.herokuapp.com/"
     },
     {
       "id": 5,
-      "name": "README Generator",
-      "image": "../../img/readme.png",
-      "repo": "https://github.com/smithse4/09-readme-generator",
-      "deployed": "NA"
-      
+      "name": "Eat-Da-Burger",
+      "image": "../../img/burger.png",
+      "description": "App built with MySQL, Node, Express, Handlebars, and a custom ORM.",
+      "repo": "https://github.com/smithse4/13-burger",
+      "deployed": "https://stephburger.herokuapp.com/"
     },
     {
       "id": 6,
-      "name": "Employee Tracker",
-      "image": "../../img/employeetracker.png",
-      "repo": "https://github.com/smithse4/12-employee-tracker",
-      "deployed": "NA"
-      
-      
+      "name": "Fitness Tracker",
+      "image": "../../img/tracker.png",
+      "description": "Workout tracker application that uses a Mongo database with a Mongoose schema and handled routes with Express.",
+      "repo": "https://github.com/smithse4/17-fitness-tracker",
+      "deployed": "https://stephtracker.herokuapp.com/"
     }
   ]
   
