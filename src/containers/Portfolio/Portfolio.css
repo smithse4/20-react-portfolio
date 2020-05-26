@@ -1,50 +1,55 @@
 .port-image {
-    margin: 5px auto;
-    border: 1px solid black;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
-  
-  h5 {
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 0;
-    margin-top: 10px;
-  }
-  
-  .repo-links {
-    color: black;
-    margin: 0;
-  }
-  
-  .repo-links:hover {
-    color: grey;
-  }
-  
-  p {
-    margin-bottom: 0;
-  }
+  margin: 5px auto;
+  border: 1px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
-  .project-width {
-    max-width: 47%;
-    margin: 10px;
-  }
+.port-desc {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 
-  button {
-    background-color: #4C1B30;
-    color: white;
-    border: none;
-    width: 46%;
-    margin: 6px;
-    padding: 4px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+h5 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
 
-  button:hover {
-    background-color: #4C1B30;
-    color: lightgrey;
-    border: none;
-    width: 46%;
-    margin: 6px;
-    padding: 4px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+.repo-links {
+  color: black;
+  margin: 0;
+}
+
+.repo-links:hover {
+  color: grey;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.project-width {
+  max-width: 47%;
+  margin: 10px;
+}
+
+button {
+  background-color: #4c1b30;
+  color: white;
+  border: none;
+  width: 46%;
+  margin: 6px;
+  padding: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:hover {
+  background-color: #4c1b30;
+  color: lightgrey;
+  border: none;
+  width: 46%;
+  margin: 6px;
+  padding: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
