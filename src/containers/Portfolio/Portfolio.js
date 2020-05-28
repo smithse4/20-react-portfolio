@@ -68,7 +68,7 @@ class Portfolio extends Component {
                 <i className="fab fa-linkedin"></i> LinkedIn
               </p>
             </a>
-            <a href="mailto:smithse4@gmail.com>" className="contacts">
+            <a href="mailto:smithse4@gmail.com" className="contacts">
               <p>
                 <i className="fas fa-envelope"></i> smithse4@gmail.com
               </p>
@@ -77,7 +77,7 @@ class Portfolio extends Component {
               <i className="fas fa-phone"></i> (404) 323-3940
             </p>
             <a
-              href="https://drive.google.com/open?id=1SF88JA-rKU51833-WXT4hHWEfGS6fyWe"
+              href="https://drive.google.com/file/d/1uVpsYSARNEbr7dwyXyclLzg3bZhw6rp-/view?usp=sharing"
               className="contacts"
             >
               <p>
