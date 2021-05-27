@@ -9,6 +9,7 @@ import notetaker from "../../img/notetaker.png"
 import readme from "../../img/readme.png"
 
 
+
 class Portfolio extends Component {
 
   state = {
@@ -77,7 +78,7 @@ class Portfolio extends Component {
               <i className="fas fa-phone"></i> (404) 323-3940
             </p>
             <a
-              href="https://drive.google.com/file/d/1uVpsYSARNEbr7dwyXyclLzg3bZhw6rp-/view?usp=sharing"
+              href="https://drive.google.com/file/d/1uo-rorgOIeEdr2tQBJ04JXJHyM6LNvN3/view?usp=sharing"
               className="contacts"
             >
               <p>

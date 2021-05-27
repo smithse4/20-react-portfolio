@@ -43,7 +43,7 @@ const Contact = () => {
             <i className="fas fa-phone"></i> (404) 323-3940
           </p>
           <a
-            href="https://drive.google.com/file/d/1uVpsYSARNEbr7dwyXyclLzg3bZhw6rp-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1uo-rorgOIeEdr2tQBJ04JXJHyM6LNvN3/view?usp=sharing"
             className="contacts"
           >
             <p>
